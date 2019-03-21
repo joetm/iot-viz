@@ -1,0 +1,11 @@
+{
+  "name": "iot-viz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:joetm/iot-viz.git",
+  "author": "Jonas",
+  "license": "MIT",
+  "dependencies": {
+    "dc": "^2.2.2"
+  }
+}
